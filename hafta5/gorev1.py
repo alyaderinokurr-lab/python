@@ -1,1 +1,1 @@
-print("alya")
+print("alya okur")
