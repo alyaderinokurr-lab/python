@@ -1,1 +1,2 @@
-print("alya okur")
+isim = "Alya"
+print("Merhaba", isim + "!")
