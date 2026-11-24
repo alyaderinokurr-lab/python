@@ -1,0 +1,5 @@
+def oyuncu_karsila(oyuncu_adi):
+    print("Selam,bu oyuna hoş geldin", oyuncu_adi)
+    print("Oynamaya hazır mısın?")
+
+oyuncu_karsila("Alya")

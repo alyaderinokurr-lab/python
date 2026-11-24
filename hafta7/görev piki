@@ -1,0 +1,8 @@
+yakit = int(input("Yakıt miktarını gir: "))
+
+if yakit <= 0:
+    print("Geçersiz yakıt")
+elif yakit >= 10:
+    print("Gemi kalkabilir! ")
+else:
+    print("Yetersiz yakıt, gemi kalkamaz.")
