@@ -1,0 +1,6 @@
+sayi = int(input("Kaça kadar saysın? "))
+
+for i in range(1, sayi + 1):
+    print(i, end=" ")
+
+print("Roket fırlatıldı!")
